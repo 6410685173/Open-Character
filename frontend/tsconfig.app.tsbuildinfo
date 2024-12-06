@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/routers/index.ts","./src/app.vue","./src/components/aimessage.vue","./src/components/helloworld.vue","./src/components/usermessage.vue","./src/views/chat.vue","./src/views/live2d_character.vue"],"errors":true,"version":"5.6.2"}

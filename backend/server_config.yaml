@@ -1,0 +1,11 @@
+
+# <============== SERVER settings ===================>
+SERVER:
+  PROTOCOL: "http"
+  HOST: "127.0.0.1"
+  PORT: 8001
+  RELOAD: True
+  
+
+# <============== SERVER settings ===================>
+
